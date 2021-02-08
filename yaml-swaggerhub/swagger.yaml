@@ -3,6 +3,6 @@ info:
   version: 1.0.0
 servers:
 - url: https://virtserver.swaggerhub.com/Corey_Projects/smartcalc/1.0.0
-  description: SwaggerHub API Auto Mocking
+  description: SwaggerHub API test
 paths: {}
 components: {}
